@@ -30,6 +30,10 @@
 
 </div>
 
+> [!Important]
+>
+> 上游仓库账号被封禁，此为MaaNTE仓库的 fork 存档
+
 > [!Caution]
 >
 > 近期出现大量账号二次分发本软件，甚至冒充官方账号。通过非官方途径获取的软件可能**含有病毒**，并且一般不是最新版本。请务必从 [GitHub Releases](https://github.com/1bananachicken/MaaNTE/releases) 等官方渠道下载。
